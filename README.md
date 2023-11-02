@@ -1,0 +1,1 @@
+# rhacm-ocp-configuration
